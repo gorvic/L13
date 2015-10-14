@@ -12,6 +12,6 @@ and open the template in the editor.
     </head>
     <body>
         <div>TODO write content</div>
-        <script src="/js/myscript.js"></script>
+        <script src="./js/myscript.js"></script>
     </body>
 </html>
